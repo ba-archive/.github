@@ -10,7 +10,7 @@
 
 [GitHub 分流：gh.blue-archive.io](https://ba-archive.github.io/)
 
-[CF Pages 分流：cf.blue-archive.io](https://bluearchive.pages.dev/)
+[Vercel 分流：ba.afox.tk](https://ba.afox.tk/)，感谢 [xiaofeiTM233](https://github.com/xiaofeiTM233/blue-archive-story-viewer) 的镜像
 
 ## 加入开发
 
