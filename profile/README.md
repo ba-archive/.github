@@ -10,8 +10,7 @@
 
 [GitHub 分流：gh.blue-archive.io](https://ba-archive.github.io/)
 
-[Vercel 分流：ba.afox.tk](https://ba.afox.tk/)，感谢 [xiaofeiTM233](https://github.com/xiaofeiTM233/blue-archive-story-viewer) 的镜像
-
+[Vercel 分流：ba-archive.vercel.app](https://ba-archive.vercel.app/)
 ## 加入开发
 
 我们是一个~~资历尚浅~~年轻的团队。
