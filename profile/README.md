@@ -11,8 +11,9 @@
 [GitHub 分流：gh.blue-archive.io](https://ba-archive.github.io/)
 
 [Vercel 分流：vc.blue-archive.io](https://vc.blue-archive.io/)
+
 ## 加入开发
 
 我们是一个~~资历尚浅~~年轻的团队。
 
-如果有意向加入，可以 [查看我们的人员需求](https://github.com/ba-archive/blue-archive-story-viewer/discussions/97)。
+如果有意向加入，可以 [查看我们的不定期在B站上发布的人员需求](https://space.bilibili.com/1413213021/dynamic)。
