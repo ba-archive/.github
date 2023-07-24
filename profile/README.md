@@ -8,8 +8,6 @@
 
 [主站: blue-archive.io](https://blue-archive.io)
 
-[GitHub 分流：gh.blue-archive.io](https://ba-archive.github.io/)
-
 [Vercel 分流：vc.blue-archive.io](https://vc.blue-archive.io/)
 
 ## 加入开发
