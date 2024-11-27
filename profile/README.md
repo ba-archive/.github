@@ -8,8 +8,6 @@
 
 [主站: blue-archive.io](https://blue-archive.io)
 
-[Vercel 分流：vc.blue-archive.io](https://vc.blue-archive.io/)
-
 ## 加入开发
 
 我们是一个~~资历尚浅~~年轻的团队。
